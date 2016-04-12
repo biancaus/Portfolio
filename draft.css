@@ -20,7 +20,7 @@ body {
 }
 
 .links {
-    color: #c44d58;
+    color: #556270;
     width: 420px;
     float: right;
     text-align: right;
@@ -30,7 +30,7 @@ body {
 }
 
 .links a {
-   color: white;
+   color: #556270;
    text-decoration: none;
    padding-left: 10px;
    padding-right: 10px;
